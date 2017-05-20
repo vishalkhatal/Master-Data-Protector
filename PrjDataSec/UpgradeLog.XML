@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PrjDataSec">
+</Property><Property Name="Solution File" Value="D:\STUDY\Diploma\DataSec\PrjDataSec\PrjDataSec.sln">
+</Property><Property Name="User Options File" Value="D:\STUDY\Diploma\DataSec\PrjDataSec\PrjDataSec.suo">
+</Property><Property Name="Date" Value="Wednesday, May 28, 2014">
+</Property><Property Name="Time" Value="19:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PrjDataSec.sln" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PrjDataSec.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PrjDataSec.suo" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PrjDataSec.suo">
+</Event><Event ErrorLevel="4" Project="PrjDataSec" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PrjDataSec.vbproj" Description="Project file successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PrjDataSec.vbproj">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PrjDataSec.vbproj.user" Description="Project user file successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PrjDataSec.vbproj.user">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="BookingReport.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\BookingReport.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fLogIn.designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fLogIn.designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fLogIn.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fLogIn.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmAppInfo.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmAppInfo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmAppInfo.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmAppInfo.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBillRP.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBillRP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBillRP.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBillRP.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmBooking.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmBooking.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmBooking.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmBooking.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBookRp.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBookRp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBookRp.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBookRp.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmCode.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmCode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmCode.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmCode.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFront.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFront.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFront.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFront.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFrontScreen.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFrontScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFrontScreen.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFrontScreen.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmLogin.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmLogin.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmLogin.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewBooking.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewBooking.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewBooking.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewBooking.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewPart.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewPart.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewPart.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewPart.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewParty.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewParty.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewParty.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewParty.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewUser.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewUser.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewUser.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewUser.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartCode.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartCode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartCode.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartCode.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartRP.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartRP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartRP.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartRP.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartyRP.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartyRP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartyRP.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartyRP.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmReplacement.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmReplacement.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmReplacement.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmReplacement.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmReplaceRP.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmReplaceRP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmReplaceRP.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmReplaceRP.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmSaleBill.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmSaleBill.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmSaleBill.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmSaleBill.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmStartUpScreen.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmStartUpScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmStartUpScreen.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmStartUpScreen.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fUser.designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fUser.designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fUser.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fUser.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Module1.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Module2.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Module2.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="NewBooking.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\NewBooking.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="NewPart.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\NewPart.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="New_StockDataSet.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\New_StockDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PartInforeport.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PartInforeport.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PartyInfoReport.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PartyInfoReport.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="RptReplace.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\RptReplace.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="SaleBillReport.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\SaleBillReport.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="StockDataSet.Designer.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\StockDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="StockDataSet.vb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\StockDataSet.vb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="app.config" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Application.myapp" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Settings.settings" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="StockDataSet.xsc" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\StockDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="StockDataSet.xsd" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\StockDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="StockDataSet.xss" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\StockDataSet.xss">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="New_StockDataSet.xsc" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\New_StockDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="New_StockDataSet.xsd" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\New_StockDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="New_StockDataSet.xss" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\New_StockDataSet.xss">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\NET14.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\NET14.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\KEY04.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\KEY04.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\POINT04.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\POINT04.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\KEY041.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\KEY041.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\InformationIcon.jpg" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\InformationIcon.jpg">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\hwa_24.gif" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\hwa_24.gif">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\QMANAGER.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\QMANAGER.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\connected_data_big.jpg" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\connected_data_big.jpg">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\QMANAGER1.ICO" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\QMANAGER1.ICO">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Resources\NewReg.jpg" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Resources\NewReg.jpg">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="New Stock.mdb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\New Stock.mdb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="Stock.mdb" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\Stock.mdb">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="BookingReport.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\BookingReport.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fLogIn.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fLogIn.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmAppInfo.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmAppInfo.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBillRP.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBillRP.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmBooking.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmBooking.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmBookRp.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmBookRp.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmCode.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmCode.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFront.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFront.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmFrontScreen.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmFrontScreen.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmLogin.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmLogin.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewBooking.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewBooking.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewPart.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewPart.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewParty.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewParty.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmNewUser.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmNewUser.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartCode.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartCode.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartRP.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartRP.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmPartyRP.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmPartyRP.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmReplacement.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmReplacement.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmReplaceRP.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmReplaceRP.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="frmSaleBill.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\frmSaleBill.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="FrmStartUpScreen.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\FrmStartUpScreen.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="fUser.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\fUser.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="My Project\Resources.resx" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="NewBooking.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\NewBooking.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="NewPart.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\NewPart.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PartInforeport.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PartInforeport.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PartyInfoReport.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\PartyInfoReport.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="RptReplace.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\RptReplace.rpt">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="SaleBillReport.rpt" Description="File successfully backed up as D:\STUDY\Diploma\DataSec\PrjDataSec\Backup\SaleBillReport.rpt">
+</Event><Event ErrorLevel="1" Project="PrjDataSec" Source="PrjDataSec.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PrjDataSec.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PrjDataSec" Source="PrjDataSec.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PrjDataSec.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PrjDataSec.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrjDataSec" Source="PrjDataSec.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
